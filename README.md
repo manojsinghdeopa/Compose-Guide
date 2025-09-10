@@ -37,7 +37,7 @@ Contributions are welcome! If you'd like to contribute, please follow these gene
 3.  Make your changes and commit them with clear, descriptive messages.
 4.  Ensure your code adheres to the project's coding style.
 5.  Push your changes to your forked repository.
-6.  Open a pull request to the main repository, detailing the changes you've made.
+6.  Open a pull request to the main repository,detailing the changes you've made.
 
 ## License
 
