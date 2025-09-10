@@ -25,8 +25,8 @@ A Guide App for Jetpack Compose UI elements with sample code + output & descript
 
 *   Browse a collection of Jetpack Compose UI elements.
 *   View concise sample code snippets for implementing each element.
-*   Explore practical examples showcasing the usage of components in different scenarios //TODO
-*   Read clear descriptions and explanations for each Compose component //TODO
+*   Explore practical examples showcasing the usage of components in different scenarios /*TODO*/
+*   Read clear descriptions and explanations for each Compose component /*TODO*/
 
 ## Contributing
 
